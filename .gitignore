@@ -1,0 +1,11 @@
+*.plg
+*.dep
+*.bak
+*.Bak
+*.BAK
+Release
+Debug
+HelloWorld
+*.uvgui.*
+/m35/m35sendsms.c
+/*.uvopt
